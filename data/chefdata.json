@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Chef Nazrul Islam",
+        "img_url": "https://example.com/nazrul-islam.jpg",
+        "url": "https://www.nazrulislam.com/",
+        "description": "Chef Nazrul Islam is a Bangladeshi chef who specializes in traditional Bangladeshi cuisine. His website features a range of recipes, cooking tips, and information on his catering services and restaurant.",
+        "likes": 10000,
+        "recipes": 250,
+        "experience": "Chef Nazrul Islam has been cooking for over 20 years and has worked in some of the top restaurants in Bangladesh. He has also worked as a private chef and caterer for high-profile clients, and has won several awards for his culinary skills."
+    },
+    {
+        "id": 2,
+        "name": "Chef Rizwan Kabir",
+        "img_url": "https://example.com/rizwan-kabir.jpg",
+        "url": "https://www.chefrizwankabir.com/",
+        "description": "Chef Rizwan Kabir is a Bangladeshi chef who specializes in international cuisine. His website features a variety of recipes, cooking tips, and information on his catering services and cooking classes.",
+        "likes": 5000,
+        "recipes": 150,
+        "experience": "Chef Rizwan Kabir has been cooking for over 15 years and has worked in restaurants in Bangladesh, Australia, and the UK. He has also appeared on several cooking shows and has won numerous awards for his culinary skills."
+    },
+    {
+        "id": 3,
+        "name": "Chef Muntasir Ahmed",
+        "img_url": "https://example.com/muntasir-ahmed.jpg",
+        "url": "https://www.chefmuntasirahmed.com/",
+        "description": "Chef Muntasir Ahmed is a Bangladeshi chef who specializes in seafood. His website features a range of recipes, cooking tips, and information on his restaurant and catering services.",
+        "likes": 8000,
+        "recipes": 100,
+        "experience": "Chef Muntasir Ahmed has been cooking for over 10 years and has worked in some of the top seafood restaurants in Bangladesh. He is known for his innovative recipes and has won several awards for his culinary skills."
+    },
+    {
+        "id": 4,
+        "name": "Chef Adnan Kabir",
+        "img_url": "https://example.com/adnan-kabir.jpg",
+        "url": "https://www.chefadnankabir.com/",
+        "description": "Chef Adnan Kabir is a Bangladeshi chef who specializes in fusion cuisine. His website features a variety of recipes, cooking tips, and information on his catering services and cooking classes.",
+        "likes": 6000,
+        "recipes": 200,
+        "experience": "Chef Adnan Kabir has been cooking for over 12 years and has worked in restaurants in Bangladesh and the US. He has also appeared on several cooking shows and has won numerous awards for his culinary skills."
+    },
+    {
+        "id": 5,
+        "name": "Chef Kamrul Islam",
+        "img_url": "https://example.com/kamrul-islam.jpg",
+        "url": "https://www.chefkamrulislam.com/",
+        "description": "Chef Kamrul Islam is a Bangladeshi chef who",
+        "likes": 4000,
+        "recipes": 120,
+        "experience": "Chef Kamrul Islam has been cooking for over 10 years and has worked in restaurants in Bangladesh and the UK. He is known for his innovative vegetarian and vegan dishes and has won several awards for his culinary skills."
+    },
+    {
+        "id": 6,
+        "name": "Chef Sabbir Ahmed",
+        "img_url": "https://example.com/sabbir-ahmed.jpg",
+        "url": "https://www.chefsabbirahmed.com/",
+        "description": "Chef Sabbir Ahmed is a Bangladeshi chef who specializes in traditional and fusion cuisine. His website features a range of recipes, cooking tips, and information on his catering services and cooking classes.",
+        "likes": 7000,
+        "recipes": 180,
+        "experience": "Chef Sabbir Ahmed has been cooking for over 15 years and has worked in restaurants in Bangladesh, the UK, and Australia. He is known for his innovative dishes that blend traditional Bangladeshi cuisine with international flavors, and has won numerous awards for his culinary skills."
+    }
+]
