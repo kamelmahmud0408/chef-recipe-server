@@ -2,47 +2,393 @@
     {
         "id": 1,
         "name": "Chef Nazrul Islam",
-        "img_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg",
+        "img_url": "https://img.freepik.com/premium-photo/work-cook-kitchen-restaurant_110955-745.jpg?size=626&ext=jpg&ga=GA1.2.93284882.1673808478&semt=robertav1_2_sidr",
         "description": "Chef Nazrul Islam is a Bangladeshi chef who specializes in traditional Bangladeshi cuisine. His website features a range of recipes, cooking tips, and information on his catering services and restaurant.",
         "likes": 10000,
-        "recipes": 250,
-        "experience": "12 years"
+        "number_of_recipes": 250,
+        "experience": "12 years",
+        "recipes": [
+            {
+                "recipe_name": "Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken or beef",
+                    "Potatoes",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Tomato",
+                    "Yogurt",
+                    "Ghee"
+                ],
+                "cooking_method": [
+                    "Marinate the meat with yogurt and spices.",
+                    "Fry onions until golden brown and set aside.",
+                    "Fry the meat until browned.",
+                    "Parboil rice and layer with meat, potatoes, fried onions, and spices.",
+                    "Add water and cook until rice is fully cooked."
+                ],
+                "rating": "4.5/5"
+            },
+            {
+                "name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard paste",
+                    "Turmeric powder",
+                    "Salt",
+                    "Green chili",
+                    "Mustard oil",
+                    "Water"
+                ],
+                "cooking_method": [
+                    "Mix the mustard paste, turmeric, and salt with water to make a sauce.",
+                    "Fry the fish in mustard oil until golden brown.",
+                    "Add the sauce and green chili to the pan.",
+                    "Cook until the sauce thickens and the fish is fully cooked."
+                ],
+                "rating": "4.8/5"
+            },
+            {
+                "name": "Chingri Malaikari (Prawn Curry in Coconut Milk)",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Turmeric powder",
+                    "Cumin powder",
+                    "Coriander powder",
+                    "Salt",
+                    "Sugar",
+                    "Ghee"
+                ],
+                "cooking_method": [
+                    "Fry onions, garlic, ginger, and green chili until golden brown.",
+                    "Add prawns, turmeric, cumin, coriander, salt, and sugar to the pan.",
+                    "Fry until the prawns are cooked.",
+                    "Add coconut milk and cook until the sauce thickens.",
+                    "Add ghee and serve hot."
+                ],
+                "rating": "4.7/5"
+            }
+        ]
     },
     {
         "id": 2,
         "name": "Chef Rizwan Kabir",
-        "img_url": "https://img.freepik.com/premium-photo/cheerful-chef-cook-wearing-uniform-peppers-cooked-beef-steak-meal-plate-isolated-white-wall_171337-54253.jpg",
+        "img_url": "https://as1.ftcdn.net/v2/jpg/01/09/90/92/1000_F_109909275_mWyVzp8q1JLEc2lydnlH5qYHog5iGQct.jpg",
         "description": "Chef Rizwan Kabir is a Bangladeshi chef who specializes in international cuisine. His website features a variety of recipes, cooking tips, and information on his catering services and cooking classes.",
         "likes": 5000,
-        "recipes": 150,
-        "experience": "13 years"
+        "number_of_recipes": 150,
+        "experience": "13 years",
+        "recipes": [
+            {
+                "recipe_name": "Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken or beef",
+                    "Potatoes",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Tomato",
+                    "Yogurt",
+                    "Ghee"
+                ],
+                "cooking_method": [
+                    "Marinate the meat with yogurt and spices.",
+                    "Fry onions until golden brown and set aside.",
+                    "Fry the meat until browned.",
+                    "Parboil rice and layer with meat, potatoes, fried onions, and spices.",
+                    "Add water and cook until rice is fully cooked."
+                ],
+                "rating": "4.5/5"
+            },
+            {
+                "name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard paste",
+                    "Turmeric powder",
+                    "Salt",
+                    "Green chili",
+                    "Mustard oil",
+                    "Water"
+                ],
+                "cooking_method": [
+                    "Mix the mustard paste, turmeric, and salt with water to make a sauce.",
+                    "Fry the fish in mustard oil until golden brown.",
+                    "Add the sauce and green chili to the pan.",
+                    "Cook until the sauce thickens and the fish is fully cooked."
+                ],
+                "rating": "4.8/5"
+            },
+            {
+                "name": "Chingri Malaikari (Prawn Curry in Coconut Milk)",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Turmeric powder",
+                    "Cumin powder",
+                    "Coriander powder",
+                    "Salt",
+                    "Sugar",
+                    "Ghee"
+                ],
+                "cooking_method": [
+                    "Fry onions, garlic, ginger, and green chili until golden brown.",
+                    "Add prawns, turmeric, cumin, coriander, salt, and sugar to the pan.",
+                    "Fry until the prawns are cooked.",
+                    "Add coconut milk and cook until the sauce thickens.",
+                    "Add ghee and serve hot."
+                ],
+                "rating": "4.7/5"
+            }
+        ]
     },
     {
         "id": 3,
         "name": "Chef Muntasir Ahmed",
-        "img_url": "https://i.pinimg.com/474x/eb/18/9d/eb189d3d310f40cf894d8d70d8a280c3.jpg",
+        "img_url": "https://img.freepik.com/premium-photo/cropped-shot-young-male-chef-preparing-meal-professional-kitchen_579247-36.jpg?w=996",
         "description": "Chef Muntasir Ahmed is a Bangladeshi chef who specializes in seafood. His website features a range of recipes, cooking tips, and information on his restaurant and catering services.",
         "likes": 8000,
-        "recipes": 100,
-        "experience": "15 years"
+        "number_of_recipes": 100,
+        "experience": "15 years",
+        "recipes": [
+            {
+                "recipe_name": "Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken or beef",
+                    "Potatoes",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Tomato",
+                    "Yogurt",
+                    "Ghee"
+                ],
+                "cooking_method": [
+                    "Marinate the meat with yogurt and spices.",
+                    "Fry onions until golden brown and set aside.",
+                    "Fry the meat until browned.",
+                    "Parboil rice and layer with meat, potatoes, fried onions, and spices.",
+                    "Add water and cook until rice is fully cooked."
+                ],
+                "rating": "4.5/5"
+            },
+            {
+                "name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard paste",
+                    "Turmeric powder",
+                    "Salt",
+                    "Green chili",
+                    "Mustard oil",
+                    "Water"
+                ],
+                "cooking_method": [
+                    "Mix the mustard paste, turmeric, and salt with water to make a sauce.",
+                    "Fry the fish in mustard oil until golden brown.",
+                    "Add the sauce and green chili to the pan.",
+                    "Cook until the sauce thickens and the fish is fully cooked."
+                ],
+                "rating": "4.8/5"
+            },
+            {
+                "name": "Chingri Malaikari (Prawn Curry in Coconut Milk)",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Turmeric powder",
+                    "Cumin powder",
+                    "Coriander powder",
+                    "Salt",
+                    "Sugar",
+                    "Ghee"
+                ],
+                "cooking_method": [
+                    "Fry onions, garlic, ginger, and green chili until golden brown.",
+                    "Add prawns, turmeric, cumin, coriander, salt, and sugar to the pan.",
+                    "Fry until the prawns are cooked.",
+                    "Add coconut milk and cook until the sauce thickens.",
+                    "Add ghee and serve hot."
+                ],
+                "rating": "4.7/5"
+            }
+        ]
     },
     {
         "id": 4,
         "name": "Chef Adnan Kabir",
-        "img_url": "https://w7.pngwing.com/pngs/32/427/png-transparent-personal-chef-cook-chef-s-uniform-kitchen-house-chef-restaurant-thumbnail.png",
+        "img_url": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=996&t=st=1683033740~exp=1683034340~hmac=b3266157535c4d8b257247227f7d6137e1e05aeccec8ecd43ccc78acc88dd1f4",
         "description": "Chef Adnan Kabir is a Bangladeshi chef who specializes in fusion cuisine. His website features a variety of recipes, cooking tips, and information on his catering services and cooking classes.",
         "likes": 6000,
-        "recipes": 90,
-        "experience": "10 years"
+        "number_of_recipes": 90,
+        "experience": "10 years",
+        "recipes": [
+            {
+                "recipe_name": "Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken or beef",
+                    "Potatoes",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Tomato",
+                    "Yogurt",
+                    "Ghee"
+                ],
+                "cooking_method": [
+                    "Marinate the meat with yogurt and spices.",
+                    "Fry onions until golden brown and set aside.",
+                    "Fry the meat until browned.",
+                    "Parboil rice and layer with meat, potatoes, fried onions, and spices.",
+                    "Add water and cook until rice is fully cooked."
+                ],
+                "rating": "4.5/5"
+            },
+            {
+                "name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard paste",
+                    "Turmeric powder",
+                    "Salt",
+                    "Green chili",
+                    "Mustard oil",
+                    "Water"
+                ],
+                "cooking_method": [
+                    "Mix the mustard paste, turmeric, and salt with water to make a sauce.",
+                    "Fry the fish in mustard oil until golden brown.",
+                    "Add the sauce and green chili to the pan.",
+                    "Cook until the sauce thickens and the fish is fully cooked."
+                ],
+                "rating": "4.8/5"
+            },
+            {
+                "name": "Chingri Malaikari (Prawn Curry in Coconut Milk)",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Turmeric powder",
+                    "Cumin powder",
+                    "Coriander powder",
+                    "Salt",
+                    "Sugar",
+                    "Ghee"
+                ],
+                "cooking_method": [
+                    "Fry onions, garlic, ginger, and green chili until golden brown.",
+                    "Add prawns, turmeric, cumin, coriander, salt, and sugar to the pan.",
+                    "Fry until the prawns are cooked.",
+                    "Add coconut milk and cook until the sauce thickens.",
+                    "Add ghee and serve hot."
+                ],
+                "rating": "4.7/5"
+            }
+        ]
     },
     {
         "id": 5,
         "name": "Chef Kamrul Islam",
-        "img_url": "https://thumbs.dreamstime.com/z/happy-male-chef-cook-cooking-food-profession-vegetarian-people-concept-vegetable-salad-52560757.jpg",
+        "img_url": "https://img.freepik.com/free-photo/man-cook-holds-pan-with-vegetables-flying-air_613910-10109.jpg?w=996&t=st=1683034355~exp=1683034955~hmac=1c3c6c33f364a235732486d554e6f45cc4300d978871e184c494af610d951b34",
         "description": "Chef Kamrul Islam is a Bangladeshi chef who specializes in traditional and fusion cuisine. His website features a range of recipes, cooking tips, and information on his catering services and cooking classes.",
         "likes": 4000,
-        "recipes": 120,
-        "experience": "10 years"
+        "number_of_recipes": 120,
+        "experience": "10 years",
+        "recipes": [
+            {
+                "recipe_name": "Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken or beef",
+                    "Potatoes",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Tomato",
+                    "Yogurt",
+                    "Ghee"
+                ],
+                "cooking_method": [
+                    "Marinate the meat with yogurt and spices.",
+                    "Fry onions until golden brown and set aside.",
+                    "Fry the meat until browned.",
+                    "Parboil rice and layer with meat, potatoes, fried onions, and spices.",
+                    "Add water and cook until rice is fully cooked."
+                ],
+                "rating": "4.5/5"
+            },
+            {
+                "name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard paste",
+                    "Turmeric powder",
+                    "Salt",
+                    "Green chili",
+                    "Mustard oil",
+                    "Water"
+                ],
+                "cooking_method": [
+                    "Mix the mustard paste, turmeric, and salt with water to make a sauce.",
+                    "Fry the fish in mustard oil until golden brown.",
+                    "Add the sauce and green chili to the pan.",
+                    "Cook until the sauce thickens and the fish is fully cooked."
+                ],
+                "rating": "4.8/5"
+            },
+            {
+                "name": "Chingri Malaikari (Prawn Curry in Coconut Milk)",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Turmeric powder",
+                    "Cumin powder",
+                    "Coriander powder",
+                    "Salt",
+                    "Sugar",
+                    "Ghee"
+                ],
+                "cooking_method": [
+                    "Fry onions, garlic, ginger, and green chili until golden brown.",
+                    "Add prawns, turmeric, cumin, coriander, salt, and sugar to the pan.",
+                    "Fry until the prawns are cooked.",
+                    "Add coconut milk and cook until the sauce thickens.",
+                    "Add ghee and serve hot."
+                ],
+                "rating": "4.7/5"
+            }
+        ]
+
     },
     {
         "id": 6,
@@ -50,7 +396,76 @@
         "img_url": "https://www.ecpi.edu/sites/default/files/Aug%2022%20CIV.png",
         "description": "Chef Sabbir Ahmed is a Bangladeshi chef who specializes in traditional and fusion cuisine. His website features a range of recipes, cooking tips, and information on his catering services and cooking classes.",
         "likes": 7000,
-        "recipes": 100,
-        "experience": "15 years"
+        "number_of_recipes": 100,
+        "experience": "15 years",
+        "recipes": [
+            {
+                "recipe_name": "Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken or beef",
+                    "Potatoes",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Tomato",
+                    "Yogurt",
+                    "Ghee"
+                ],
+                "cooking_method": [
+                    "Marinate the meat with yogurt and spices.",
+                    "Fry onions until golden brown and set aside.",
+                    "Fry the meat until browned.",
+                    "Parboil rice and layer with meat, potatoes, fried onions, and spices.",
+                    "Add water and cook until rice is fully cooked."
+                ],
+                "rating": "4.5/5"
+            },
+            {
+                "name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard paste",
+                    "Turmeric powder",
+                    "Salt",
+                    "Green chili",
+                    "Mustard oil",
+                    "Water"
+                ],
+                "cooking_method": [
+                    "Mix the mustard paste, turmeric, and salt with water to make a sauce.",
+                    "Fry the fish in mustard oil until golden brown.",
+                    "Add the sauce and green chili to the pan.",
+                    "Cook until the sauce thickens and the fish is fully cooked."
+                ],
+                "rating": "4.8/5"
+            },
+            {
+                "name": "Chingri Malaikari (Prawn Curry in Coconut Milk)",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Turmeric powder",
+                    "Cumin powder",
+                    "Coriander powder",
+                    "Salt",
+                    "Sugar",
+                    "Ghee"
+                ],
+                "cooking_method": [
+                    "Fry onions, garlic, ginger, and green chili until golden brown.",
+                    "Add prawns, turmeric, cumin, coriander, salt, and sugar to the pan.",
+                    "Fry until the prawns are cooked.",
+                    "Add coconut milk and cook until the sauce thickens.",
+                    "Add ghee and serve hot."
+                ],
+                "rating": "4.7/5"
+            }
+        ]
     }
 ]
